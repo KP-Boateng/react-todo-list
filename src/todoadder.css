@@ -1,0 +1,9 @@
+.addbutton:hover {
+  border: 3px solid black;
+  color: blue;
+  font-weight: 500;
+}
+
+.addbutton:click {
+  color: rgb(238, 81, 14);
+}
